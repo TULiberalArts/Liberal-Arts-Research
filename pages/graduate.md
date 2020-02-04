@@ -17,7 +17,7 @@ Coming soon! _We are in the process of restructuring this program and funding sh
 
 ## Research Awards for Advanced Doctoral Students (RAADS)
 RAADS are intended to support advanced doctoral students’ research including research-related expenses, travel, foreign language study, technologies and data. Check-in with your department Graduate Director for more information on eligibility. 
-- [RAADS Application](https://form.jotform.com/92594592867174)
+- [RAADS Application and Guidelines](https://form.jotform.com/92594592867174)
 - [RAADS Letter of Support](https://form.jotform.com/92596292037162)
 
 ## Temple University Graduate School
