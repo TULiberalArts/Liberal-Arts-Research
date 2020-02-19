@@ -27,3 +27,5 @@ The Liberal Arts Undergraduate Research Awards (LAURA) creates more opportunitie
 The Creative Arts and Research Scholarship are a partnership between the Temple Research Administration and the Office of the Provost and the deans of Temple University’s schools and colleges to provide funding opportunities to encourage and support undergraduate and professional students engaged in scholarly, creative and research projects that contribute to advancing their field of study.  
 
 - [Learn More about the Creative Arts And Research Scholarship (CARAs)](https://www.temple.edu/vpus/research/caras.html)
+
+___
