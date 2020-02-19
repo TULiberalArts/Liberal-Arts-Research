@@ -59,3 +59,5 @@ Once an award is granted and a FOAPAL is established, feel free to contact Kim F
 - [Institutional Review Board (IRB)](http://research.temple.edu/irb) 
 - [Institutional Animal Care & Use Committee (IACUC)](https://research.temple.edu/research-compliance/institutional-animal-care-use-committee-iacuc) 
 - [Tech Transfer](http://research.temple.edu/innovation) 
+
+___
