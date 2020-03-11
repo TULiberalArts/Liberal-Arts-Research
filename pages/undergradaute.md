@@ -11,7 +11,7 @@ keywords: >-
 
 sidebar: sidebars/undergraduate.html
 ---
-The College of Liberal Arts’ student body is driven by curiosity and questioning. Our undergraduates are helping change the status quo in a variety of disciplines. 
+The College of Liberal Arts’ student body is driven by curiosity and questioning.  We encourage all our students to participate in research and help create knowledge.  The College of Liberal Arts offers funding opportunities each semester, including summer, to afford students to undertake critical and impactful work. Our Liberal Arts Undergraduate Research Awards (LAURAs) and the Creative Arts and Research Scholarship (CARAs) are two Collge funded awards with bi-annual calls for proposals. 
 
 We encourage all our students to participate in research. The College of Liberal Arts offers funding opportunities each semester to afford students to undertake this critical and impactful work. Our Liberal Arts Undergraduate Research Awards (LAURAs) and the Creative Arts and Research Scholarship (CARAs) are the sole providers supporting our undergraduate research. 
 
