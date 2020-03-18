@@ -10,6 +10,8 @@ keywords: >-
 # custom variables
 sidebar: sidebars/graduate.html
 ---
+___
+
 The College of Liberal Arts’ graduate students produce incredible, cutting-edge academic work as dedicated and creative scholars. CLA provides multiple avenues of support for graduate student research through conference travel funding and research awards. Temple University Graduate School also provides additional funding opportunities.
 
 ## Graduate Student Conference Travel Program 
