@@ -10,6 +10,8 @@ keywords: >-
 # custom variables
 sidebar: sidebars/undergraduate.html
 ---
+___
+
 The College of Liberal Arts Research Team will help tenured and tenure-track faculty identify, create and assist in getting external funding for your project or research. We’re here to be your advocate for all grant communications—internally and externally. We will be the liaison between faculty and administrative offices as well as potential funders. From inception to award, the research administration team helps in securing grant money for external funding needs. 
 
 ### Our Services
