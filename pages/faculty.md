@@ -14,6 +14,8 @@ keywords: >-
 # custom variables
 sidebar: 
 ---
+___
+
 ## Faculty Research
 - About us intro needed; Opportunities needed
 - Repeat LAURA information?
