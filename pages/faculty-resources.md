@@ -10,6 +10,8 @@ keywords: >-
 # custom variables
 sidebar: sidebars/undergraduate.html
 ---
+___
+
 ## Faculty and Additional Research Resources
 - [CLARAs Guidelines](https://drive.google.com/open?id=1Hq2xkdxlKjvjM5FJxuKa1Lb2SCWojj6a)
 - [LAURAs Guidelines](https://drive.google.com/open?id=191ryddrmB1wwvsr005Kc3HHWUgDcfsBq)
