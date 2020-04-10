@@ -13,8 +13,6 @@ sidebar: sidebars/undergraduate.html
 ___
 
 ## Faculty and Additional Research Resources
-- [CLARAs Guidelines](https://drive.google.com/open?id=1Hq2xkdxlKjvjM5FJxuKa1Lb2SCWojj6a)
-- [LAURAs Guidelines](https://drive.google.com/open?id=191ryddrmB1wwvsr005Kc3HHWUgDcfsBq)
 - [CLA Research Calendar](https://liberalarts.temple.edu/sites/liberalarts/files/CLA%20Research%20Calendar%2019-20%2010.3.pdf)
 
 ### Office of the Vice President for Research (OVPR)
