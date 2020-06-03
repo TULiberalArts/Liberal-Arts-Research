@@ -95,7 +95,7 @@ In collaboration with The American Council of Learned Societies, The Department 
 <p>The ACLS Postdoctoral Fellow may not hold any other appointment during the period of the fellowship.</p>
 </details><br>
 
-### 2019-2020 Academic Year Fellows:
+### 2018-2019 Academic Year Fellows:
 
 <details>
   <summary><strong>Rachel Goffe - Geography and Urban Studies</strong></summary>
