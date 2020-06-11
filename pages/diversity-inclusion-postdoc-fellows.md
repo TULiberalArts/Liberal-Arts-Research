@@ -9,9 +9,9 @@ description: >-
 keywords: ''
 # custom variables
 ---
-### 2018-2019 Academic Year Diversity and Inclusion Postdoctoral Fellows
-
 ___
+
+### 2018-2019 Academic Year Diversity and Inclusion Postdoctoral Fellows
 
 ![Rachel Goffe]({{site.baseurl}}/media/rgoffeALMA.jpg){:.responsive-img .img-right}
 **Rachel Goffe - Geography and Urban Studies**<br>
