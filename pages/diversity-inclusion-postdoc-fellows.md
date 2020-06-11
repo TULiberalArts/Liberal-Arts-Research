@@ -28,5 +28,3 @@ ___
 **Shaeeda Mensah - Philosophy**<br>
 
 Shaeeda served as a Diversity Postdoctoral Fellow in the Department of Philosophy. She received a PhD in Philosophy from Pennsylvania State University. Her research focuses on the intersections of race and gender, punishment, and state violence. In particular, she explores the over emphasis of Black men's experiences, and the marginalization of Black women's experiences in analyses of mass incarceration and police violence. She has taught a wide range of classes in both philosophy and women, gender, and sexuality studies. These classes include but are not limited to philosophy of law, race, class, gender and mass incarceration, social and political philosophy, ethics, logic, philosophy of the Black experience, Black feminism(s), feminist theory, women's violences through time, and controversies in love and sex.
-
-___
