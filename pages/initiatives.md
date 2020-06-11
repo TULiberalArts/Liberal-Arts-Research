@@ -19,14 +19,11 @@ The Diversity and Inclusion Postdoctoral Fellowships in the Liberal Arts support
 
 - [**_2018-2019 Cohort_**](https://www.cla.temple.edu/liberal-arts-research/diversity-inclusion-postdoc-fellows/)
 
+## Upcoming Fellowship Opportunities
+The College of Liberal Arts was one of only three national recipients of the Postdoctoral Partnership Initiative grant from the American Council of Learned Societies (ACLS). Our postdoctoral fellowship search was in Philosophy of Race. The Philosophy Department is thrilled to announce that César Cabezas Gamarra, from Columbia University will be joining the department this fall 2020. Check back to read more about César!
+
 ___
 
 ![ACLS logo]({{site.baseurl}}/media/fullaclslogo.png){:.responsive-img .img-center}
 ACLS is pleased to announce three new partnerships that reflect our commitment to supporting institutional efforts to increase the diversity of college and university faculty. Through this program, **The City College of New York, Haverford College, and Temple University** will each offer a two-year postdoctoral fellowship for promising early career scholars from historically underrepresented groups such as black/African American, American Indian, Alaskan Native, and Hispanic/Latino scholars. The institutions will appoint these fellows with the intent to promote them to Assistant Professor roles at the end of the fellowship period. Support for ACLS’s Postdoctoral Partnership Initiative is made possible by The Andrew W. Mellon Foundation.
-
-___
-
-## Upcoming Fellowship Opportunities
-The College of Liberal Arts was one of only three national recipients of the Postdoctoral Partnership Initiative grant from the American Council of Learned Societies (ACLS). Our postdoctoral fellowship search was in Philosophy of Race. The Philosophy Department is thrilled to announce that César Cabezas Gamarra, from Columbia University will be joining the department this fall 2020. Check back to read more about César!
-
 ___
