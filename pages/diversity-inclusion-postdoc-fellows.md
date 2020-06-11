@@ -13,6 +13,7 @@ ___
 
 ### 2018-2019 Academic Year Diversity and Inclusion Postdoctoral Fellows    
 
+___
 
 ![Rachel Goffe]({{site.baseurl}}/media/rgoffeALMA.jpg){:.responsive-img .img-right}
 **Rachel Goffe - Geography and Urban Studies**<br>
