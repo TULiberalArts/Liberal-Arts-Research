@@ -24,5 +24,6 @@ The College of Liberal Arts was one of only three national recipients of the Pos
 
 ___
 
-![ACLS logo]({{site.baseurl}}/media/fullaclslogo.png){:.responsive-img .img-center}
+## ACLS Postdoctoral Partnership Initiative
 ACLS is pleased to announce three new partnerships that reflect our commitment to supporting institutional efforts to increase the diversity of college and university faculty. Through this program, **The City College of New York, Haverford College, and Temple University** will each offer a two-year postdoctoral fellowship for promising early career scholars from historically underrepresented groups such as black/African American, American Indian, Alaskan Native, and Hispanic/Latino scholars. The institutions will appoint these fellows with the intent to promote them to Assistant Professor roles at the end of the fellowship period. Support for ACLS’s Postdoctoral Partnership Initiative is made possible by The Andrew W. Mellon Foundation.
+![ACLS logo]({{site.baseurl}}/media/fullaclslogo.png){:.responsive-img .img-center}
