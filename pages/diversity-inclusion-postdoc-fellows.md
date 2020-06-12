@@ -28,3 +28,12 @@ ___
 **Shaeeda Mensah - Philosophy**<br>
 
 Shaeeda served as a Diversity Postdoctoral Fellow in the Department of Philosophy. She received a PhD in Philosophy from Pennsylvania State University. Her research focuses on the intersections of race and gender, punishment, and state violence. In particular, she explores the over emphasis of Black men's experiences, and the marginalization of Black women's experiences in analyses of mass incarceration and police violence. She has taught a wide range of classes in both philosophy and women, gender, and sexuality studies. These classes include but are not limited to philosophy of law, race, class, gender and mass incarceration, social and political philosophy, ethics, logic, philosophy of the Black experience, Black feminism(s), feminist theory, women's violences through time, and controversies in love and sex.
+
+___
+
+### 2019-2020 Academic Year Diversity and Inclusion Postdoctoral Fellow<br> 
+
+![Usha Vishnuvajjala]({{site.baseurl}}/media/usha.png){:.responsive-img .img-right}
+**Usha Vishnuvajjala - English**<br>
+
+Usha Vishnuvajjala studied Government and Politics at the University of Maryland and the University of Exeter (UK) and worked in a Congressional office before turning to the study of medieval literature. After earning an MA in Literature at American University and a PhD in English at Indiana University, she taught first-year writing at Coppin State University, American University, and Tulane University before coming to Temple as a postdoc.Her research focuses on gender and friendship in medieval English and French literature and on post-medieval representations of the Middle Ages, especially medieval women, and her book _Feminist Medievalisms_ is under contract with Arc Humanities Press/Amsterdamn University Press. This fall, she will begin an appointment as a fixed-term lecturer at Cardiff University in Wales.theory, women's violences through time, and controversies in love and sex.
