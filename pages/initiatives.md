@@ -15,9 +15,9 @@ ___
 ## Diversity and Inclusion Postdoctoral Fellowships
 The Diversity and Inclusion Postdoctoral Fellowships in the Liberal Arts support the development of early-career scholars from historically underrepresented groups in the profession. These are one-year positions with a 0-1 teaching load designed to give Diversity and Inclusion scholars time to begin research immediately after completing their PhDs in an intellectually rich and supportive environment. 
 
-- **_Current Fellow_**: [Usha K. Vishnuvajjala](https://liberalarts.temple.edu/academics/faculty/vishnuvajjala-usha) – English<br>
-
 - [**_2018-2019 Cohort_**](https://www.cla.temple.edu/liberal-arts-research/diversity-inclusion-postdoc-fellows/)
+
+- [**_2019-2020 Cohort_**](https://www.cla.temple.edu/liberal-arts-research/diversity-inclusion-postdoc-fellows#2019-2020-academic-year-diversity-and-inclusion-postdoctoral-fellow)
 
 ## Upcoming Fellowship Opportunities
 The College of Liberal Arts was one of only three national recipients of the Postdoctoral Partnership Initiative grant from the American Council of Learned Societies (ACLS). Our postdoctoral fellowship search was in Philosophy of Race. The Philosophy Department is thrilled to announce that **César Cabezas Gamarra**, from Columbia University will be joining the department this fall 2020. Check back to read more about César!
