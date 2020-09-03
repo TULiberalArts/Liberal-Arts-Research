@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page_test
 permalink: /undergraduate/
-published: false
+published: true
 # meta-data variables
 title: Undergraduate
 description: >-
