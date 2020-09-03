@@ -7,7 +7,7 @@ Liberal Arts Research is statically generated with [Jekyll](https://jekyllrb.com
 | Links |  |
 | --- | --- |
 | Development |  |
-| Production |  |
+| Production | https://www.cla.temple.edu/liberal-arts-research/ |
 
 ## Content Structure
 
@@ -26,7 +26,7 @@ If you discover typographic errors, bugs, or have problems navigating this site 
 [Pull requests][pr] are also welcome if you would like to contribute or edit page content. [Prose.io][prose] is a quick and convenient way to edit content in [Markdown][md].
 
 
-[travis]: https://travis-ci.org/TULiberalArts/Pre-Law
+[travis]: https://travis-ci.org/TULiberalArts/Liberal-Arts-Research
 [travis-img]: https://travis-ci.org/TULiberalArts/Liberal-Arts-Research.svg?branch=master
 [jekyll]: https://https://jekyllrb.com
 [issue]: https://github.com/TULiberalArts/Liberal-Arts-Research/issues
