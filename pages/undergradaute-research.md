@@ -53,6 +53,4 @@ The Creative Arts and Research Scholarship are a partnership between the Temple 
 
 - [Learn More about the Creative Arts And Research Scholarship (CARAs)](https://www.temple.edu/vpus/research/caras.html)
 
-
 ___
-
