@@ -2,7 +2,7 @@
 
 [![Build Status][travis-img]][travis]
 
-Pre-Law is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
+Liberal Arts Research is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
 
 | Links |  |
 | --- | --- |
@@ -27,9 +27,9 @@ If you discover typographic errors, bugs, or have problems navigating this site 
 
 
 [travis]: https://travis-ci.org/TULiberalArts/Pre-Law
-[travis-img]: https://travis-ci.org/TULiberalArts/Pre-Law.svg?branch=master
+[travis-img]: https://travis-ci.org/TULiberalArts/Liberal-Arts-Research.svg?branch=master
 [jekyll]: https://https://jekyllrb.com
-[issue]: https://github.com/TULiberalArts/Pre-Law/issues
+[issue]: https://github.com/TULiberalArts/Liberal-Arts-Research/issues
 [pr]: https://help.github.com/articles/about-pull-requests/
-[prose]: https://prose.io/#TULiberalArts/Pre-Law
+[prose]: https://prose.io/#TULiberalArts/Liberal-Arts-Research
 [md]: http://whatismarkdown.com/
