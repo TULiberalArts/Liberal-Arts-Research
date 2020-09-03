@@ -4,7 +4,7 @@ layout: tla_page_test
 permalink: /undergraduate-research/
 published: true
 # meta-data variables
-title: Undergraduate
+title: Undergraduate Research
 description: >-
 keywords: >-
 # custom variables
