@@ -1,10 +1,10 @@
 ---
 # global predefined variables
 layout: tla_page_test
-permalink: /undergraduate-research/
+permalink: /undergraduate/
 published: true
 # meta-data variables
-title: Undergraduate Research
+title: Undergraduate
 description: >-
 keywords: >-
 # custom variables
