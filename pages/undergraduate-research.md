@@ -15,6 +15,7 @@ ___
 ## Research Opportunities
 
 **_A note from Senior Associate Dean for Faculty Affairs Sandra L. Suárez_**<br> 
+
 Undergraduate students have a variety of research opportunities at CLA. Conducting research teaches you how to think creatively and critically, deepens your understanding of the research topic and helps you develop analytical and problem-solving skills. Equipped with this new skill set and knowledge you’ll clarify your career interests and strengthen your resume for your future profession. 
 
 These opportunities afford you the chance to enrich your education through scholarly research while receiving valuable faculty mentorship. You are the next generation of independent thinkers and collaborators, problem-solvers and decision-makers. We’re here to support you, our #TempleMade thought leaders of tomorrow, as you participate in the four research opportunity paths below. 
