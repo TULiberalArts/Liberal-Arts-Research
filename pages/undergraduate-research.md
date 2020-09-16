@@ -36,5 +36,3 @@ Opportunities for undergrads to experience working as part of a research group a
 The **_Psychology Department and Neuroscience Program_** are particularly rich with such opportunities. 
 
 Other potential opportunities include but are not limited to the [**_Institute on Disabilities_**](https://www.temple.edu/instituteondisabilities/) and the [**_Institute for Survey Research_**](https://www.cla.temple.edu/institute-for-survey-research/). Many of these positions are work-study eligible. 
-
-___
