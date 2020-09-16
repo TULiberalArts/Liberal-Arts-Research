@@ -26,8 +26,8 @@ The [Public Policy Lab](http://www.cla.temple.edu/public-policy-lab/) is an inte
 ### Institute for Survey Research
 The [Institute for Survey Research](https://www.cla.temple.edu/institute-for-survey-research/) is one of only three academic survey research centers in the U.S. with the historical experience of implementing national computer-assisted in-person surveys. We are known for the consistently high quality of our work, our high response rates, and our expertise and success in tracing longitudinal study participants. We collaborate with faculty and other researchers around the country and the world on surveys and evaluations across a broad range of fields, topics and populations.
 
-## Provost Funding
-Temple University offers annual opportunities for faculty to pursue professional development, conduct research and/or creative activities and/or develop methods and materials that improve teaching and curricula. Eligible faculty are encouraged to apply for Grant-in-Aid Awards, Summer Research Awards and sabbaticals. For more information and submission deadlines, please look out for announcements throughout the fall semester.
-
 ## Office of the Vice President for Research (OVPR)
 Temple University’s [Office of the Vice President for Research](https://research.temple.edu) offers specialized services and resources to advance faculty research across the university. The Presidential Arts and Humanities Awards through OVPR offer faculty a wonderful funding opportunity within the university. The OVPR Grant Academy provides grant writing training that is individualized for nominated CLA faculty.
+
+## Provost Funding
+Temple University offers annual opportunities for faculty to pursue professional development, conduct research and/or creative activities and/or develop methods and materials that improve teaching and curricula. Eligible faculty are encouraged to apply for Grant-in-Aid Awards, Summer Research Awards and sabbaticals. For more information and submission deadlines, please look out for announcements throughout the fall semester.
