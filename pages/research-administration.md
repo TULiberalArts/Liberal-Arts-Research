@@ -22,7 +22,7 @@ The College of Liberal Arts Research Team will help tenured and tenure-track fac
 - Obtaining required University approvals
 
 ### The Process
-The first step in your grant journey begins with identifying a sponsor and funding opportunity. If you do not already have one, [this guideline]( http://research.temple.edu/grants/key-guidelines-resources/funding-your-project) provides resources to get you started.  CLA’s Research Administration staff are available to assist in this process as well. 
+The first step in your grant journey begins with identifying a sponsor and funding opportunity. If you do not already have one, [this guideline](http://research.temple.edu/grants/key-guidelines-resources/funding-your-project) provides resources to get you started.  CLA’s Research Administration staff are available to assist in this process as well. 
 
 To initiate a request please fill out the [Funding Search & Collaborative Search Request form](https://form.jotform.com/73114853579161) and within 24 hours a member of the CLA Research Team will contact you to discuss next steps. All grants must be prepared within Temple’s interactive research portal called [Electronic Research Administration](https://era.temple.edu/tu_login/login.asp). Principal investigators cannot submit applications directly. 
 
@@ -55,7 +55,7 @@ Once an award is granted and a FOAPAL is established, feel free to contact Kim F
 - [eRA@TU](https://era.temple.edu/tu_login/login.asp)
 - [Grants Management Office (GMO)](http://research.temple.edu/grants/grants-management) 
 - [Pre-Award Management](https://ersprod2.tu.temple.edu/GenericERS/custom/index.jsp) 
-- [Post Award Management]()
+- Post Award Management
 - [Effort Reporting System](https://ersprod2.tu.temple.edu/GenericERS/custom/index.jsp) 
 - [Research Compliance](http://research.temple.edu/innovation)
 - [Institutional Review Board (IRB)](http://research.temple.edu/irb) 
