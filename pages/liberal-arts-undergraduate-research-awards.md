@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page_test
 permalink: /undergraduate-research/liberal-arts-undergraduate-research-awards/
-published: false
+published: true
 # meta-data variables
 title: Liberal Arts Undergraduate Research Awards
 description: >-
