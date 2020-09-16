@@ -31,5 +31,3 @@ Temple University offers annual opportunities for faculty to pursue professional
 
 ## Office of the Vice President for Research (OVPR)
 Temple University’s Office of the Vice President for Research offers specialized services and resources to advance faculty research across the university. The Presidential Arts and Humanities Awards through OVPR offer faculty a wonderful funding opportunity within the university. The OVPR Grant Academy provides grant writing training that is individualized for nominated CLA faculty.
-
-___
