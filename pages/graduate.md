@@ -30,5 +30,3 @@ The [First Summers Research Initiative](https://grad.temple.edu/admissions/costs
 The [Doctoral Dissertation Completion Grant and Master of Fine Arts Project Completion Grant](https://grad.temple.edu/admissions/costs-financial-aid-more/university-financial-support) offers significant financial support to promising students who want to accelerate completion of their degree. Applicants apply for the award as their final term approaches. The award allows students to devote themselves full time to the completion of their dissertation or master’s project.
 
 These grants are awarded once during the fall and spring terms. An application must be submitted by the student and the department. Nominations are due to the Graduate School in October each year for the upcoming spring term and in March for the following fall term. Refer to the [Graduate School calendar](https://bulletin.temple.edu/graduate/academic-calendar/) for specific nomination due dates.
-
-___
