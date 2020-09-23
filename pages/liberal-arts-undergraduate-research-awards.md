@@ -43,7 +43,7 @@ ___
 - [Jamie Fader](https://liberalarts.temple.edu/academics/faculty/fader-jamie) (Criminal Justice) and student Shannon McGorry for _Mapping the Landscape of School-Based Interrogations: A Pilot Study_
 - [Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania) (Psychology) and student Matthew Ambrogi for _Training Older Adults with Cognitive Impairment to Use Assistive Technologies_
 - [Kristin Gjesdal](https://liberalarts.temple.edu/academics/faculty/gjesdal-kristin) (Philosophy) and student Andrea Paleos for _Germaine de Staël on Implicit Bias_
-- [Victor Gutierrez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo) (Geography and Urban Studies) and student Evelyn Gorey for _Mapping forest loss due to agricultural expansion in a hotspot of ecosystem change in Colombia_
+- [Victor Gutierrez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo) (Geography and Urban Studies) and student Evelyn Gorey for _Mapping Forest Loss due to Agricultural Expansion in a Hotspot of Ecosystem Change in Colombia_
 - Rebeca Hey-Colón (Spanish) and student Sebastián Rangel for _Disastrous Beginnings: Caribbean and Latinx Renditions of Emergence_
 - [Robin Kolodny](https://liberalarts.temple.edu/academics/faculty/kolodny-robin) (Political Science) and student Daisy Confoy for _Campaign Finance Allegations in the 2020 Democratic Presidential Primary: Game Changer or Red Herring?_
 - [Peter Marshall](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j) (Psychology) and student Troy Houser for _Leveraging the Construct of Embodiment to Advance Developmental Science_
