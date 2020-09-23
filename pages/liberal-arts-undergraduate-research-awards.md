@@ -21,8 +21,22 @@ The Liberal Arts Undergraduate Research Awards (LAURA) creates more opportunitie
 - [LAURA Application and Guidelines](https://forms.office.com/Pages/ResponsePage.aspx?id=74FucSK1c0SOMRC9Asz25YUTQ2IOTiRHsiOxVuRDceNURjQ5SERKTVlPQVU4Q0lZUjBRQjU3N0k4MC4u)
 
 ### Faculty and Student Research Teams
-The College of Liberal Arts is pleased to announce the **Summer 2020** LAURA Scholar Awards:
+The College of Liberal Arts is pleased to announce the **Fall 2020** LAURA Scholar Awards:
 
+- [Rebecca Alpert](https://liberalarts.temple.edu/academics/faculty/alpert-rebecca) (Religion) and student Jessica Levine for _Jewish Feminists and the UN Decade on Women Oral History Project_
+- [Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania) (Psychology) and student Dhruvi Mehta for _Objective Assessment of Cognition and Everyday Function in Older Adults_
+- [Victor Hugo Gutierrez-Velez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo) (Geography and Urban Studies) and student Evelyn Gorey for _Apping Drivers of Ecosystem Change in a Biodiversity Hotspot in Colombia	_
+- [Andrew Karpinski](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew) (Psychology) and student Phiona Tran for _Religious Beliefs and Beliefs in Free Will_
+- [Judith Levine](https://liberalarts.temple.edu/academics/faculty/levine-judith) (Sociology) and student Emily Wilson for _Landing a Job: Moving from College to Employment in the New Economy_
+- [Ajima Olaghere](https://liberalarts.temple.edu/academics/faculty/olaghere-ajima) (Criminal Justice) and student Makayla Maynard for _Legitimacy in Corrections at a Time of Crisis: Perspectives from Incarcerated Individuals_
+- [Pedro Silos](https://liberalarts.temple.edu/academics/faculty/silos-pedro) (Economics) and student Samuel Von Mahs for _Inferring Risk Aversion from Career Choices_
+- [David Smith](https://liberalarts.temple.edu/academics/faculty/smith-david-v) (Psychology) and student Gemma Goldstein for _Shared Reward Processing and Substance Use_
+- [Kimberly Williams](https://liberalarts.temple.edu/academics/faculty/williams-kimberly-d) (Anthropology) and student Matthew Williams for _Reconstructing Mortuary Ritual in Early Bronze Age Oman: The Role of Animals and Fire_
+- [Janire Zalbidea](https://liberalarts.temple.edu/academics/faculty/zalbidea-janire) (Spanish) and student Lytice Gordon for _Factors Impacting Foreign Language Reading Comprehension_
+
+___
+
+### Summer 2020 LAURA Scholar Awards
 - [Colin Chamberlain](https://liberalarts.temple.edu/academics/faculty/chamberlain-colin) (Philosophy) and student Callum for _Do Minerals Dream? Margaret Cavendish’s Panpsychism_
 - [Eunice Chen](https://liberalarts.temple.edu/academics/faculty/chen-eunice) (Psychology) and student Thomas Kelly for _Medical Comorbidity and COVID-19_
 - [Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah) (Psychology) and student Faylyn Kalchthaler for _Do Working Memory Abilities Moderate the Relation between Community Violence and Peer Processes?_
