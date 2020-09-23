@@ -25,7 +25,7 @@ The College of Liberal Arts is pleased to announce the **Fall 2020** LAURA Schol
 
 - [Rebecca Alpert](https://liberalarts.temple.edu/academics/faculty/alpert-rebecca) (Religion) and student Jessica Levine for _Jewish Feminists and the UN Decade on Women Oral History Project_
 - [Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania) (Psychology) and student Dhruvi Mehta for _Objective Assessment of Cognition and Everyday Function in Older Adults_
-- [Victor Hugo Gutierrez-Velez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo) (Geography and Urban Studies) and student Evelyn Gorey for _Apping Drivers of Ecosystem Change in a Biodiversity Hotspot in Colombia	_
+- [Victor Hugo Gutierrez-Velez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo) (Geography and Urban Studies) and student Evelyn Gorey for _Mapping Drivers of Ecosystem Change in a Biodiversity Hotspot in Colombia_
 - [Andrew Karpinski](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew) (Psychology) and student Phiona Tran for _Religious Beliefs and Beliefs in Free Will_
 - [Judith Levine](https://liberalarts.temple.edu/academics/faculty/levine-judith) (Sociology) and student Emily Wilson for _Landing a Job: Moving from College to Employment in the New Economy_
 - [Ajima Olaghere](https://liberalarts.temple.edu/academics/faculty/olaghere-ajima) (Criminal Justice) and student Makayla Maynard for _Legitimacy in Corrections at a Time of Crisis: Perspectives from Incarcerated Individuals_
