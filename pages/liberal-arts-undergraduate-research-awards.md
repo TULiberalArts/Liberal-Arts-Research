@@ -20,7 +20,7 @@ The Liberal Arts Undergraduate Research Awards (LAURA) creates more opportunitie
 
 - [LAURA Scholars Awards Ceremony](https://liberalarts.temple.edu/news/cla-presents-second-annual-liberal-arts-undergraduate-research-awards)
 - [LAURA Scholars Team in Philosophy Shares Its Experience ](https://drive.google.com/file/d/1vV9eIb25JhCFoWxNcaMJMA4QNyxvS3dY/view?ts=5f73bc1f)
-- [**LAURA Application and Guidelines](https://forms.office.com/Pages/ResponsePage.aspx?id=74FucSK1c0SOMRC9Asz25YUTQ2IOTiRHsiOxVuRDceNURjQ5SERKTVlPQVU4Q0lZUjBRQjU3N0k4MC4u)** 
+- [LAURA APPLICATION and GUIDELINES](https://forms.office.com/Pages/ResponsePage.aspx?id=74FucSK1c0SOMRC9Asz25YUTQ2IOTiRHsiOxVuRDceNURjQ5SERKTVlPQVU4Q0lZUjBRQjU3N0k4MC4u)
 
 ### Faculty and Student Research Teams
 The College of Liberal Arts is pleased to announce the **Fall 2020** LAURA Scholar Awards:
