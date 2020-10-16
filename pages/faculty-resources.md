@@ -32,7 +32,7 @@ The [Liberal Arts Undergraduate Research Awards (LAURA)](https://www.cla.temple.
 ## College of Liberal Arts Research Awards (CLARAs)
 The Dean of CLA invites applications from all tenured and tenure-track faculty for CLA Research Awards (CLARA) to support their research. Preference will be given to those who have not received internal funding from any source this past academic year. These funds are available to support new or ongoing research. 
 
-- [**CLARAs Guidelines and Application]( https://forms.office.com/Pages/ResponsePage.aspx?id=74FucSK1c0SOMRC9Asz25YUTQ2IOTiRHsiOxVuRDceNUREVNTE03UFJMVzhIN01OSU03TlZYRFEzMi4u)**
+- **[CLARAs Guidelines and Application]( https://forms.office.com/Pages/ResponsePage.aspx?id=74FucSK1c0SOMRC9Asz25YUTQ2IOTiRHsiOxVuRDceNUREVNTE03UFJMVzhIN01OSU03TlZYRFEzMi4u)**
 
 ## Office of the Vice President for Research (OVPR)
 Temple University’s [Office of the Vice President for Research](https://research.temple.edu) offers specialized services and resources to advance faculty research across the university. The Presidential Arts and Humanities Awards through OVPR offer faculty a wonderful funding opportunity within the university. The OVPR Grant Academy provides grant writing training that is individualized for nominated CLA faculty.
