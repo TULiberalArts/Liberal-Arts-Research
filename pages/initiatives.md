@@ -22,6 +22,13 @@ The College of Liberal Arts exemplifies Temple University’s core values of div
 - [Future Faculty Fellows Events](#cla-future-faculty-assistantship-program)
 - [Mid-Atlantic Neuroscience Diversity Scholars Program (MiNDS)](https://sites.temple.edu/minds/)
 
+### Postdoctoral Diversity Fellowship Program
+The Postdoctoral Diversity Fellowship Program supports the development of early career scholars from diverse backgrounds with particular attention to historically under-represented groups among the professorial faculties of colleges and universities in the United States as well as to increase the diversity of the community of scholars devoted to academic research at Temple University. These are one-year positions with a 0-1 teaching load designed to give Diversity and Inclusion scholars time to begin research immediately after completing their PhDs in an intellectually rich and supportive environment. 
+
+- [**_2018-2019 Cohort_**](https://www.cla.temple.edu/liberal-arts-research/diversity-inclusion-postdoc-fellows/)
+
+- [**_2019-2020 Cohort_**](https://www.cla.temple.edu/liberal-arts-research/diversity-inclusion-postdoc-fellows#2019-2020-academic-year-diversity-and-inclusion-postdoctoral-fellow)
+
 ### Diversity Predoctoral Fellowships in Liberal Arts (Pilot Program)
 The purpose of the Diversity Predoctoral Fellowships program is to enhance diversity in the College of Liberal Arts and the higher education community by providing college graduates with additional professional support and mentoring as they enter their fields. The program is envisioned for college graduates who belong to a wide range of backgrounds, and who will benefit from an additional year of training before pursuing a doctoral degree. Applicants from members of racial and ethnic groups that have historically been underrepresented in the humanities and social sciences, are encouraged to apply. The fellowship will cover tuition costs for up to 12 credit hours (four courses) during one academic year. Incoming fellows will have the opportunity to study with advanced doctoral students, work closely with a faculty mentor, and receive training in research methods for specific departments.
 
@@ -31,17 +38,10 @@ In 1987, the Future Faculty Fellows Program (currently known as the Future Facul
 Academic Affairs in CLA has created a new multifaceted mentoring approach for the participants in the program. This new initiative includes:
 
 **Group Mentoring**<br>
-Participants attend regular meetings of the new cohort in a given year (organized by the Senior Associate Dean for Academic Affairs, and the Director of Graduate Studies). These meetings are intended to provide opportunities for incoming fellows to share insights, discoveries, and questions. We feature former Future Faculty Fellows, members of the faculty, administrators, or external seasoned experts addressing issues of interest to new participants, including professional development opportunities. <br>  
+Participants attend regular meetings of the new cohort in a given year (organized by the Senior Associate Dean for Academic Affairs, and the Director of Graduate Studies). These meetings are intended to provide opportunities for incoming fellows to share insights, discoveries, and questions. We feature former Future Faculty Fellows, members of the faculty, administrators, or external seasoned experts addressing issues of interest to new participants, including professional development opportunities.
 
 **Mentoring Support from an Experienced Future Faculty Fellow**<br>
 Since 2020, all incoming fellows are invited to participate in the new CLA FFA Mentorship Program. Through the program, graduate students receive mentorship and constructive support from former Future Faculty Fellows. The mentoring partnership is purely voluntary on the part of both parties, and it may be ended at either's request. It involves no formal review of each mentee’s performance, and all information shared with the mentor is to be considered confidential.
-
-### Postdoctoral Diversity Fellowship Program
-The Postdoctoral Diversity Fellowship Program supports the development of early career scholars from diverse backgrounds with particular attention to historically under-represented groups among the professorial faculties of colleges and universities in the United States as well as to increase the diversity of the community of scholars devoted to academic research at Temple University. These are one-year positions with a 0-1 teaching load designed to give Diversity and Inclusion scholars time to begin research immediately after completing their PhDs in an intellectually rich and supportive environment. 
-
-- [**_2018-2019 Cohort_**](https://www.cla.temple.edu/liberal-arts-research/diversity-inclusion-postdoc-fellows/)
-
-- [**_2019-2020 Cohort_**](https://www.cla.temple.edu/liberal-arts-research/diversity-inclusion-postdoc-fellows#2019-2020-academic-year-diversity-and-inclusion-postdoctoral-fellow)
 
 ### Upcoming Fellowship Opportunities
 Applications are now being accepted for the 2021-2022 cohort. Candidates must have completed all requirements for the PhD by September 1, 2021. This year we seek applications in the following disciplines:
