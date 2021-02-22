@@ -18,7 +18,7 @@ The College of Liberal Arts exemplifies Temple University’s core values of div
 - [Postdoctoral Diversity Fellowship Program](#postdoctoral-diversity-fellowship-program)
 
 ## Student Diversity Initiatives
-- [CLA Diversity Predoctoral Diversity Scholarships](#diversity-predoctoral-fellowshipsin-liberal-arts-pilot-program)
+- [CLA Diversity Predoctoral Diversity Scholarships](#diversity-predoctoral-fellowships-in-liberal-arts-pilot-program)
 - [Future Faculty Fellows Events](#cla-future-faculty-assistantship-program)
 - [Mid-Atlantic Neuroscience Diversity Scholars Program (MiNDS)](https://sites.temple.edu/minds/)
 
