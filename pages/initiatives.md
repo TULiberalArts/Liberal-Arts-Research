@@ -37,7 +37,7 @@ Applications are now being accepted for the 2021-2022 cohort. Candidates must ha
 - [Political Science](https://apply.interfolio.com/84171)
 
 ## ACLS Postdoctoral Fellowship in Philosophy of Race
-The College of Liberal Arts was one of only three initial national recipients of the Postdoctoral Partnership Initiative grant from the American Council of Learned Societies (ACLS). Our postdoctoral fellowship search was in Philosophy of Race. This fall 2020, the Department of Philosophy was thrilled to welcome **[César Cabezas Gamarra](https://liberalarts.temple.edu/academics/faculty/cabezas-c-sar)**, from Columbia University. 
+The College of Liberal Arts was one of only three initial national recipients of the Postdoctoral Partnership Initiative grant from the American Council of Learned Societies (ACLS). Our postdoctoral fellowship search was in Philosophy of Race. The Department of Philosophy is thrilled to welcome **[César Cabezas Gamarra](https://liberalarts.temple.edu/academics/faculty/cabezas-c-sar)**, from Columbia University. 
 
 ## ACLS Postdoctoral Partnership Initiative
 ![ACLS logo]({{site.baseurl}}/media/resizedfullaclslogo.png){:.responsive-img .img-right}
