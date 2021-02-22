@@ -28,12 +28,12 @@ The purpose of the Diversity Predoctoral Fellowships program is to enhance diver
 ### CLA Future Faculty Assistantship Program
 In 1987, the Future Faculty Fellows Program (currently known as the Future Faculty Assistantship Program or “FFA Program”) was established at Temple University to promote and increase diversity among the American professoriate through fellowship awards to newly admitted underrepresented domestic graduate students. In 2019, the fellowship program was redesigned, and colleges now oversee the selection process. **The CLA Future Faculty Assistantship Program** also offers annual assistantships that ensure summer funding.
 
-Academic Affairs in CLA has created a new multifaceted mentoring approach for the participants in the program. This new initiative includes:<br>
+Academic Affairs in CLA has created a new multifaceted mentoring approach for the participants in the program. This new initiative includes:
 
-**Group Mentoring**<br>  
+**Group Mentoring**<br>
 Participants attend regular meetings of the new cohort in a given year (organized by the Senior Associate Dean for Academic Affairs, and the Director of Graduate Studies). These meetings are intended to provide opportunities for incoming fellows to share insights, discoveries, and questions. We feature former Future Faculty Fellows, members of the faculty, administrators, or external seasoned experts addressing issues of interest to new participants, including professional development opportunities. <br>  
-    
-**Mentoring Support from an Experienced Future Faculty Fellow**<br>  
+
+**Mentoring Support from an Experienced Future Faculty Fellow**<br>
 Since 2020, all incoming fellows are invited to participate in the new CLA FFA Mentorship Program. Through the program, graduate students receive mentorship and constructive support from former Future Faculty Fellows. The mentoring partnership is purely voluntary on the part of both parties, and it may be ended at either's request. It involves no formal review of each mentee’s performance, and all information shared with the mentor is to be considered confidential.
 
 ### Postdoctoral Diversity Fellowship Program
