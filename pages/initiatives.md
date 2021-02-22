@@ -27,7 +27,7 @@ The Postdoctoral Diversity Fellowship Program supports the development of early 
 
 - [**_2018-2019 Cohort_**](https://www.cla.temple.edu/liberal-arts-research/diversity-inclusion-postdoc-fellows/)
 - [**_2019-2020 Cohort_**](https://www.cla.temple.edu/liberal-arts-research/diversity-inclusion-postdoc-fellows#2019-2020-academic-year-diversity-and-inclusion-postdoctoral-fellow)
-- [**_2020-2021 Cohort_** - American Council of Learned Societies Fellow](#acls-postdoctoral-fellowshipin-philosophy-of-race)
+- [**_2020-2021 Cohort_** - American Council of Learned Societies Fellow](#acls-postdoctoral-fellowship-in-philosophy-of-race)
 
 ### Diversity Predoctoral Fellowships in Liberal Arts (Pilot Program)
 The purpose of the Diversity Predoctoral Fellowships program is to enhance diversity in the College of Liberal Arts and the higher education community by providing college graduates with additional professional support and mentoring as they enter their fields. The program is envisioned for college graduates who belong to a wide range of backgrounds, and who will benefit from an additional year of training before pursuing a doctoral degree. Applicants from members of racial and ethnic groups that have historically been underrepresented in the humanities and social sciences, are encouraged to apply. The fellowship will cover tuition costs for up to 12 credit hours (four courses) during one academic year. Incoming fellows will have the opportunity to study with advanced doctoral students, work closely with a faculty mentor, and receive training in research methods for specific departments.
