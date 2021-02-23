@@ -23,9 +23,9 @@ The College of Liberal Arts exemplifies Temple University’s core values of div
 - [Mid-Atlantic Neuroscience Diversity Scholars Program (MiNDS)](https://sites.temple.edu/minds/)
 
 ## Selected Sponsored CLA Events
-- [_Is This Time Different? Social Movement for Racial Justice_](#is-this-time-different-social-movement-for-racial-justice)
-- [_Envisioning an Anti-racist Sustainable Philly History and Practice for Environmental Justice_](#envisioning-an-anti-racist-sustainable-philly-history-and-practice-for-environmental-justice)
-- [_The Rise in Anti-Asian Sentiments: Racism, Xenophobia, and COVID-19_](#the-rise-in-anti-asian-sentiments-racism-xenophobia-and-covid-19)
+- [_Is This Time Different? Social Movement for Racial Justice_](#selected-sponsored-cla-events)
+- [_Envisioning an Anti-racist Sustainable Philly History and Practice for Environmental Justice_](#selected-sponsored-cla-events)
+- [_The Rise in Anti-Asian Sentiments: Racism, Xenophobia, and COVID-19_](#selected-sponsored-cla-events)
 - _Race in Core Conference (forthcoming)_
 
 ## Postdoctoral Diversity Fellowship Program
