@@ -23,9 +23,9 @@ The College of Liberal Arts exemplifies Temple University’s core values of div
 - [Mid-Atlantic Neuroscience Diversity Scholars Program (MiNDS)](https://sites.temple.edu/minds/)
 
 ## Selected Sponsored CLA Events
-- [_Is This Time Different? Social Movement for Racial Justice_](#selected-sponsored-cla-events)
-- [_Envisioning an Anti-racist Sustainable Philly History and Practice for Environmental Justice_](#selected-sponsored-cla-events)
-- [_The Rise in Anti-Asian Sentiments: Racism, Xenophobia, and COVID-19_](#selected-sponsored-cla-events)
+- [_Is This Time Different? Social Movement for Racial Justice_](#sponsored-cla-events)
+- [_Envisioning an Anti-racist Sustainable Philly History and Practice for Environmental Justice_](#sponsored-cla-events)
+- [_The Rise in Anti-Asian Sentiments: Racism, Xenophobia, and COVID-19_](#sponsored-cla-events)
 - _Race in Core Conference (forthcoming)_
 
 ## Postdoctoral Diversity Fellowship Program
@@ -63,7 +63,7 @@ Participants attend regular meetings of the new cohort in a given year (organize
 **Mentoring Support from an Experienced Future Faculty Fellow**<br>
 Since 2020, all incoming fellows are invited to participate in the new CLA FFA Mentorship Program. Through the program, graduate students receive mentorship and constructive support from former Future Faculty Fellows. The mentoring partnership is purely voluntary on the part of both parties, and it may be ended at either's request. It involves no formal review of each mentee’s performance, and all information shared with the mentor is to be considered confidential.
 
-## Selected Sponsored CLA Events
+## Sponsored CLA Events
 The College of Liberal Arts’ annual signature events confront the disturbing rise in anti-Asian sentiments and actions emerging during the COVID-19 pandemic. Watch the event’s recorded streams below to see how the college responded to this senseless and dangerous hate that has no place in this (or any) community. 
 
 _Is This Time Different? Social Movement for Racial Justice_ 
