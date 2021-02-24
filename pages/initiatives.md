@@ -22,11 +22,11 @@ The College of Liberal Arts exemplifies Temple University’s core values of div
 - [Future Faculty Fellows Events](#cla-future-faculty-assistantship-program)
 - [Mid-Atlantic Neuroscience Diversity Scholars Program (MiNDS)](https://sites.temple.edu/minds/)
 
-## Selected Sponsored CLA Events
-- [_Is This Time Different? Social Movement for Racial Justice_](#sponsored-cla-events)
-- [_Envisioning an Anti-racist Sustainable Philly History and Practice for Environmental Justice_](#sponsored-cla-events)
-- [_The Rise in Anti-Asian Sentiments: Racism, Xenophobia, and COVID-19_](#sponsored-cla-events)
-- _Race in Core Conference (forthcoming)_
+## Selected CLA Sponsored Events
+- [_Is This Time Different? Social Movement for Racial Justice_](#cla-sponsored-events)
+- [_Envisioning an Anti-racist Sustainable Philly History and Practice for Environmental Justice_](#cla-sponsored-events)
+- [_The Rise in Anti-Asian Sentiments: Racism, Xenophobia, and COVID-19_](#cla-sponsored-events)
+- [_Race in Core Conference (forthcoming)_](#cla-sponsored-events)
 
 ## Postdoctoral Diversity Fellowship Program
 The Postdoctoral Diversity Fellowship Program supports the development of early career scholars from diverse backgrounds with particular attention to historically under-represented groups among the professorial faculties of colleges and universities in the United States as well as to increase the diversity of the community of scholars devoted to academic research at Temple University. These are one-year positions with a 0-1 teaching load designed to give Diversity and Inclusion scholars time to begin research immediately after completing their PhDs in an intellectually rich and supportive environment. 
@@ -63,22 +63,22 @@ Participants attend regular meetings of the new cohort in a given year (organize
 **Mentoring Support from an Experienced Future Faculty Fellow**<br>
 Since 2020, all incoming fellows are invited to participate in the new CLA FFA Mentorship Program. Through the program, graduate students receive mentorship and constructive support from former Future Faculty Fellows. The mentoring partnership is purely voluntary on the part of both parties, and it may be ended at either's request. It involves no formal review of each mentee’s performance, and all information shared with the mentor is to be considered confidential.
 
-## Sponsored CLA Events
-The College of Liberal Arts’ annual signature events confront the disturbing rise in anti-Asian sentiments and actions emerging during the COVID-19 pandemic. Watch the event’s recorded streams below to see how the college responded to this senseless and dangerous hate that has no place in this (or any) community. 
+## CLA Sponsored Events
+The College of Liberal Arts' hosted a series of panel discussions. Watch the event’s recorded streams below to see how the college responded to these critical issues. 
 
 _Is This Time Different? Social Movement for Racial Justice_ 
-On June 18th, Temple University’s College of Liberal Arts hosted the webinar, _“Is This Time Different? Social Movement for Racial Justice,”_ organized by the Center for the Humanities at Temple (CHAT) and the Public Policy Lab (PPL). The webinar was moderated by Benjamin Talton (History) with panelists Heath Fogg Davis (Political Science; Gender, Sexuality, and Women’s Studies), Ajima Olaghere (Criminal Justice), 
+On June 18th, Temple University’s College of Liberal Arts hosted the webinar, _“Is This Time Different? Social Movement for Racial Justice,”_ organized by the [Center for the Humanities at Temple (CHAT)](https://www.cla.temple.edu/center-for-the-humanities/) and the [Public Policy Lab (PPL)](https://www.cla.temple.edu/public-policy-lab/). The webinar was moderated by Benjamin Talton (History) with panelists Heath Fogg Davis (Political Science; Gender, Sexuality, and Women’s Studies), Ajima Olaghere (Criminal Justice), 
 - [Webinar Video Link](https://www.youtube.com/watch?v=SbTVfjxrd98&feature=emb_logo) 
-
-___
  
 _Envisioning an Anti-racist Sustainable Philly History and Practice for Environmental Justice_ 
 A panel discussion focused on understanding sustainability from the perspective of diverse and often marginalized communities. These communities have long been engaged with promoting equitable practices that support solutions to pressing social and environmental justice issues. Our panel of community leaders and practitioners will discuss their past and current work with communities of color and offer insights into environmental justice and sustainability efforts in Philadelphia.  
 - [Panel Discussion Video Link](https://www.youtube.com/watch?v=08Delto-hww&t=190s) 
-
-___
  
 _The Rise in Anti-Asian Sentiments: Racism, Xenophobia, and COVID-19_ 
-Panel discussion focused on the racial inequities amplified by COVID-19 within the United States' long-standing history of racism and xenophobia.  
+The College of Liberal Arts’ annual signature event focused on the disturbing rise in anti-Asian racial inequities amplified by COVID-19 within the United States' long-standing history of racism and xenophobia.  
 - [Panel Discussion Video Link](https://www.youtube.com/watch?v=sojbIDXXtyU&t=4s) 
 - [News Story](https://liberalarts.temple.edu/news/join-cla-s-weeklong-discussions-racism-xenophobia)  
+
+_Race in Core Conference_
+General education courses in the liberal arts offer students the chance to engage with texts that have shaped the world we live in today. Yet even as scholars in the fields of literary studies, history, philosophy, and political theory have expanded the scope of their inquiries to include previously marginalized voices, many core programs rely on a fixed canon of authors from the Western European tradition while neglecting the intellectual achievements of non-European peoples and, crucially, the ways in which “the West” has long been shaped by contact with non-European peoples and their lifeways. Over the course of the week, educators from around the country will discuss ways to widen the lens and to help students envision a future free of racial hierarchies.
+- [Race in Core Conference website](https://sites.temple.edu/raceincore/)
