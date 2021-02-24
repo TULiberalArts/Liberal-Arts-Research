@@ -66,19 +66,19 @@ Since 2020, all incoming fellows are invited to participate in the new CLA FFA M
 ## CLA Sponsored Events
 The College of Liberal Arts' hosted a series of panel discussions. Watch the event’s recorded streams below to see how the college responded to these critical issues. 
 
-_Is This Time Different? Social Movement for Racial Justice_<br> 
+**_Is This Time Different? Social Movement for Racial Justice_**<br> 
 On June 18th, Temple University’s College of Liberal Arts hosted the webinar, _“Is This Time Different? Social Movement for Racial Justice,”_ organized by the [Center for the Humanities at Temple (CHAT)](https://www.cla.temple.edu/center-for-the-humanities/) and the [Public Policy Lab (PPL)](https://www.cla.temple.edu/public-policy-lab/). The webinar was moderated by Benjamin Talton (History) with panelists Heath Fogg Davis (Political Science; Gender, Sexuality, and Women’s Studies), Ajima Olaghere (Criminal Justice), 
 - [Webinar Video Link](https://www.youtube.com/watch?v=SbTVfjxrd98&feature=emb_logo) 
  
-_Envisioning an Anti-racist Sustainable Philly History and Practice for Environmental Justice_<br>  
+**_Envisioning an Anti-racist Sustainable Philly History and Practice for Environmental Justice_**<br>  
 A panel discussion focused on understanding sustainability from the perspective of diverse and often marginalized communities. These communities have long been engaged with promoting equitable practices that support solutions to pressing social and environmental justice issues. Our panel of community leaders and practitioners will discuss their past and current work with communities of color and offer insights into environmental justice and sustainability efforts in Philadelphia.  
 - [Panel Discussion Video Link](https://www.youtube.com/watch?v=08Delto-hww&t=190s) 
  
-_The Rise in Anti-Asian Sentiments: Racism, Xenophobia, and COVID-19_<br>  
+**_The Rise in Anti-Asian Sentiments: Racism, Xenophobia, and COVID-19_**<br>  
 The College of Liberal Arts’ annual signature event focused on the disturbing rise in anti-Asian racial inequities amplified by COVID-19 within the United States' long-standing history of racism and xenophobia.  
 - [Panel Discussion Video Link](https://www.youtube.com/watch?v=sojbIDXXtyU&t=4s) 
 - [News Story](https://liberalarts.temple.edu/news/join-cla-s-weeklong-discussions-racism-xenophobia)  
 
-_Race in Core Conference_<br> 
+**_Race in Core Conference_**<br> 
 General education courses in the liberal arts offer students the chance to engage with texts that have shaped the world we live in today. Yet even as scholars in the fields of literary studies, history, philosophy, and political theory have expanded the scope of their inquiries to include previously marginalized voices, many core programs rely on a fixed canon of authors from the Western European tradition while neglecting the intellectual achievements of non-European peoples and, crucially, the ways in which “the West” has long been shaped by contact with non-European peoples and their lifeways. Over the course of the week, educators from around the country will discuss ways to widen the lens and to help students envision a future free of racial hierarchies.
 - [Race in Core Conference website](https://sites.temple.edu/raceincore/)
