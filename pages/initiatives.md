@@ -69,10 +69,14 @@ The College of Liberal Arts’ annual signature events confront the disturbing r
 _Is This Time Different? Social Movement for Racial Justice_ 
 On June 18th, Temple University’s College of Liberal Arts hosted the webinar, _“Is This Time Different? Social Movement for Racial Justice,”_ organized by the Center for the Humanities at Temple (CHAT) and the Public Policy Lab (PPL). The webinar was moderated by Benjamin Talton (History) with panelists Heath Fogg Davis (Political Science; Gender, Sexuality, and Women’s Studies), Ajima Olaghere (Criminal Justice), 
 - [Webinar Video Link](https://www.youtube.com/watch?v=SbTVfjxrd98&feature=emb_logo) 
+
+___
  
 _Envisioning an Anti-racist Sustainable Philly History and Practice for Environmental Justice_ 
 A panel discussion focused on understanding sustainability from the perspective of diverse and often marginalized communities. These communities have long been engaged with promoting equitable practices that support solutions to pressing social and environmental justice issues. Our panel of community leaders and practitioners will discuss their past and current work with communities of color and offer insights into environmental justice and sustainability efforts in Philadelphia.  
 - [Panel Discussion Video Link](https://www.youtube.com/watch?v=08Delto-hww&t=190s) 
+
+___
  
 _The Rise in Anti-Asian Sentiments: Racism, Xenophobia, and COVID-19_ 
 Panel discussion focused on the racial inequities amplified by COVID-19 within the United States' long-standing history of racism and xenophobia.  
