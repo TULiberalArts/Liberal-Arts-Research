@@ -18,7 +18,7 @@ The College of Liberal Arts exemplifies Temple University’s core values of div
 - [Postdoctoral Diversity Fellowship Program](#postdoctoral-diversity-fellowship-program)
 
 ## Student Diversity Initiatives
-- [CLA Diversity Predoctoral Diversity Scholarships](#diversity-predoctoral-fellowshipsin-liberal-arts)
+- [CLA Predoctoral Diversity Scholarships](#diversity-predoctoral-fellowshipsin-liberal-arts)
 - [Future Faculty Fellows Events](#cla-future-faculty-assistantship-program)
 - [Mid-Atlantic Neuroscience Diversity Scholars Program (MiNDS)](https://sites.temple.edu/minds/)
 
@@ -88,4 +88,4 @@ The College of Liberal Arts’ annual signature event focused on the disturbing 
 
 **_Race in Core Conference_**<br>
 General education courses in the liberal arts offer students the chance to engage with texts that have shaped the world we live in today. Yet even as scholars in the fields of literary studies, history, philosophy, and political theory have expanded the scope of their inquiries to include previously marginalized voices, many core programs rely on a fixed canon of authors from the Western European tradition while neglecting the intellectual achievements of non-European peoples and, crucially, the ways in which “the West” has long been shaped by contact with non-European peoples and their lifeways. Over the course of the week, educators from around the country will discuss ways to widen the lens and to help students envision a future free of racial hierarchies.
-- [Race in Core Conference website](https://sites.temple.edu/raceincore/)
+- [Race in Core Conference website](https://sites.temple.edu/corefutures21/core-futures-conference-race-in-core/schedule/)
