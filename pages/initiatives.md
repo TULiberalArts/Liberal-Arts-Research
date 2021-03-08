@@ -55,8 +55,8 @@ The purpose of the CLA Diversity Predoctoral Scholarship program is to enhance d
 Interested scholars are required to apply for admission into the PhD program during or after their first year of coursework in the College of Liberal Arts. The scholarship will cover the application fee. 
 
 **Application and Selection Process**<br>
-Departments can nominate one candidate per academic year. A one-page nomination form should be submitted to Amy Defibaugh, [amy.defibaugh@temple.edu](mailto:amy.defibaugh@temple.edu).<br> 
- 
+Departments can nominate one candidate per academic year. A one-page nomination form should be submitted to Amy Defibaugh, [amy.defibaugh@temple.edu](mailto:amy.defibaugh@temple.edu).<br>
+
 **Deadline:** - Monday, March 22, 2021
 
 ## CLA Future Faculty Assistantship Program
