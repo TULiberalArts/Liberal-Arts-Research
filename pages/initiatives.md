@@ -57,8 +57,7 @@ Interested scholars are required to apply for admission into the PhD program dur
 **Application and Selection Process**<br>
 Departments can nominate one candidate per academic year. A one-page nomination form should be submitted to Amy Defibaugh, [amy.defibaugh@temple.edu](mailto:amy.defibaugh@temple.edu).<br> 
  
-**Deadline:** 
-- Monday, March 22, 2021
+**Deadline:** - Monday, March 22, 2021
 
 ## CLA Future Faculty Assistantship Program
 In 1987, the Future Faculty Fellows Program (currently known as the Future Faculty Assistantship Program or “FFA Program”) was established at Temple University to promote and increase diversity among the American professoriate through fellowship awards to newly admitted underrepresented domestic graduate students. In 2019, the fellowship program was redesigned, and colleges now oversee the selection process. **The CLA Future Faculty Assistantship Program** also offers annual assistantships that ensure summer funding.
