@@ -23,8 +23,56 @@ The Liberal Arts Undergraduate Research Awards (LAURA) creates more opportunitie
 - [LAURA APPLICATION and GUIDELINES](https://forms.office.com/Pages/ResponsePage.aspx?id=74FucSK1c0SOMRC9Asz25YUTQ2IOTiRHsiOxVuRDceNURjQ5SERKTVlPQVU4Q0lZUjBRQjU3N0k4MC4u)
 
 ### Faculty and Student Research Teams
-The College of Liberal Arts is pleased to announce the **Spring 2021** LAURA Scholar Awards:
+The College of Liberal Arts is pleased to announce the **Summer and Fall 2021** LAURA Scholar Awards:<br>
+**Summer 2021**<br>
+- [Zain Abdullah](https://liberalarts.temple.edu/academics/faculty/abdullah-zain) (Religion) and student Angelique Vittone (Psychology and Religion) for _The Nation of Islam and Social Change, 1955-1975_
+- [Debra Bangasser](https://liberalarts.temple.edu/academics/faculty/bangasser-debra) (Neuroscience) and student Alexandra Hehn for _Effect of a Low Resource Environment on Maternal Motivation and Defensive Behaviors in Rats_
+- [Lisa Briand](https://liberalarts.temple.edu/academics/faculty/briand-lisa) (Psychology) and student Brigham Rhoads for _Effect of Adolescent Social Isolation and Cocaine Self-Administration on Microglial Morphology_
+- [Eunice Chen](https://liberalarts.temple.edu/academics/faculty/chen-eunice) (Psychology) and student Shely Khaikin for _Developing Novel fMRI Delivery Systems for Rapidly Dissolving Edible Taste Strips_
+- [Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah) (Psychology) and student Aidan Campagnolio for _Risk and Resilience for Internalizing and Externalizing Behavior Problems Among Youth Experiencing Adverse Childhood Experiences_
+- [Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania) (Psychology) and student Marina Kaplan for _Using Virtual Reality to Assess Everyday Function in Older Adults_
+- [Travis Glasson](https://liberalarts.temple.edu/academics/faculty/glasson-travis) (History) and student Maureen Iplenski for _Finding the ‘Nobody Men’: Neutrality and Family in the Era of the American Revolution_
+- [Alexandra Guisinger](https://liberalarts.temple.edu/academics/faculty/guisinger-alexandra) (Political Science) and student Samuel Hall for _Framing Layoffs: Media Coverage, Blame Attribution, and Trade-Related Policy Responses_
+- [Kevin Henry](https://liberalarts.temple.edu/academics/faculty/henry-kevin) (Geography and Urban Studies) and student Kelley Alexander Simon for _Geographic Disparities in Access to Comprehensive Stroke Centers in Pennsylvania, New Jersey, New York, and Delaware_
+- [Rebeca Hey-Colón](https://liberalarts.temple.edu/academics/faculty/hey-col-n-rebeca-l) (Spanish and Portuguese) and student Maighdlin Elizabeth Lagonegro-Coar for _Channeling Knowledges: Afro-diasporic Waters in Latinx and Caribbean Worlds_
+- [Kathryn Hirsh-Pasek](https://liberalarts.temple.edu/academics/faculty/hirsh-pasek-kathryn) (Psychology) and student Nicole Toltzis for _Multi-communication and Children: The Influence of Technology on Trust and Judgement_
+- [Johanna Jarcho](https://liberalarts.temple.edu/academics/faculty/jarcho-johanna) (Psychology) and student Caroline Kessler for _The Effects of Childhood Unpredictability and COVID-Related Sheltering-in-Place on Mental Health_
+- [Laura McGrath](https://liberalarts.temple.edu/academics/faculty/jarcho-johanna) (English) and student 	Robert Russell Magee for _Book Data_
+- [Laura McGrath](https://liberalarts.temple.edu/academics/faculty/mcgrath-laura) (English) and student 	Robert Russell Magee for _Book Data_
+- [Laura McGrath](https://liberalarts.temple.edu/academics/faculty/mcgrath-laura) (English) and student 	Nikki Gallant for _Book Data_
+- [Alan McPherson](https://liberalarts.temple.edu/academics/faculty/mcpherson-alan) (History) and student Igor Piovezan for _The Impact of Iran-Contra on U.S. Democracy_
+- [Lauren Olsen](https://liberalarts.temple.edu/academics/faculty/olsen-lauren) (Sociology) and student Olivia Quartey for _Examining Opportunities and Barriers to Underrepresented Student Advancement Along the Premedical Track_
+- [Vinay Parikh](https://liberalarts.temple.edu/academics/faculty/jarcho-johanna) (Psychology) and student Miranda Targum for _AChE Regulation and Individual Differences in Cognitive Aging_
+- [Moritz Ritter](https://liberalarts.temple.edu/academics/faculty/ryan-eileen) (Economics) and student Zainab Malik for _Impact of Child Marriage on Human Capital Outcomes_
+- [Eileen Ryan](https://liberalarts.temple.edu/academics/faculty/ryan-eileen) (History) and student David Devine for _Heroes of Italian Unification and the Abolitionist Movement_
+- [Thomas F Shipley](https://liberalarts.temple.edu/academics/faculty/shipleythomas) (Psychology) and student Kalya Brown for _Robotics Engineering Design Decisions and the Influence of Disciplinary Expertise_
+- [David V. Smith](https://liberalarts.temple.edu/academics/faculty/smith-david-v) (Psychology) and student Scott Blender for _Causal Modeling of Corticostriatal Connectivity During Reward Processing_
+- [Sandra Suarez](https://liberalarts.temple.edu/academics/faculty/smith-david-v) (Political Science) and student Patricia Almodovar for _Amazon Women: Technological Change, Housework, and Privacy in Comparative Perspective_<br>
 
+**Fall 2021**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+___
+
+## Past LAURA Scholar Awards
+
+<details>
+  <summary><strong>Spring 2021</strong></summary>
 - [Zain Abdullah](https://liberalarts.temple.edu/academics/faculty/abdullah-zain) (Religion) and student Angelique Vittone (Psychology and Religion) for _The Nation of Islam and Social Change, 1955-1975_
 - [Debra Bangasser](https://liberalarts.temple.edu/academics/faculty/bangasser-debra) (Neuroscience) and student Alessandro Jean-Louis for _Probability Discounting_
 - [Jason Chein](https://liberalarts.temple.edu/academics/faculty/chein-jason) (Psychology) and student Olivia Bishop for _Fake News Belief and Sharing Behaviors in Media Savvy Youth_
@@ -50,10 +98,7 @@ The College of Liberal Arts is pleased to announce the **Spring 2021** LAURA Sch
 - [Amarat Zaatut](https://liberalarts.temple.edu/academics/faculty/zaatut-amarat) (Criminal Justice) and student Isabel Apothaker for _Scholars’ Perceptions of Qualitative Research and its Utility in Criminology and Criminal Justice: A Comparative Study_
 - [Janire Zalbidea](https://liberalarts.temple.edu/academics/faculty/zalbidea-janire) (Spanish) and student Gillian Smyth for _Individual Differences in Foreign and Heritage Language Writing_
 - [Lu Zhang](https://liberalarts.temple.edu/academics/faculty/zhang-lu) (Sociology) and student Shane A. Binot (Philosophy and Sociology double major) for _A Comparative Study of Public Responses to COVID-19 in the United States and China: What Role Do Political Leaders, Experts, and Media Play?_
-
-___
-
-## Past LAURA Scholar Awards
+</details> 
 
 ### Fall 2020
 - [Rebecca Alpert](https://liberalarts.temple.edu/academics/faculty/alpert-rebecca) (Religion) and student Jessica Levine for _Jewish Feminists and the UN Decade on Women Oral History Project_
@@ -75,7 +120,7 @@ ___
 - [Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania) (Psychology) and student Matthew Ambrogi for _Training Older Adults with Cognitive Impairment to Use Assistive Technologies_
 - [Kristin Gjesdal](https://liberalarts.temple.edu/academics/faculty/gjesdal-kristin) (Philosophy) and student Andrea Paleos for _Germaine de Staël on Implicit Bias_
 - [Victor Gutierrez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo) (Geography and Urban Studies) and student Evelyn Gorey for _Mapping Forest Loss due to Agricultural Expansion in a Hotspot of Ecosystem Change in Colombia_
-- Rebeca Hey-Colón (Spanish) and student Sebastián Rangel for _Disastrous Beginnings: Caribbean and Latinx Renditions of Emergence_
+- [Rebeca Hey-Colón](https://liberalarts.temple.edu/academics/faculty/hey-col-n-rebeca-l) (Spanish) and student Sebastián Rangel for _Disastrous Beginnings: Caribbean and Latinx Renditions of Emergence_
 - [Robin Kolodny](https://liberalarts.temple.edu/academics/faculty/kolodny-robin) (Political Science) and student Daisy Confoy for _Campaign Finance Allegations in the 2020 Democratic Presidential Primary: Game Changer or Red Herring?_
 - [Peter Marshall](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j) (Psychology) and student Troy Houser for _Leveraging the Construct of Embodiment to Advance Developmental Science_
 - [Alan McPherson](https://liberalarts.temple.edu/academics/faculty/mcpherson-alan) (History) and student Alan David Devine for _The Iran-Contra Scandal and Its Impact on US Democracy_ 
