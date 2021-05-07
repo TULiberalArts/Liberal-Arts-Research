@@ -49,30 +49,26 @@ The College of Liberal Arts is pleased to announce the **Summer and Fall 2021** 
 - [David V. Smith](https://liberalarts.temple.edu/academics/faculty/smith-david-v) (Psychology) and student Scott Blender for _Causal Modeling of Corticostriatal Connectivity During Reward Processing_
 - [Sandra Suarez](https://liberalarts.temple.edu/academics/faculty/smith-david-v) (Political Science) and student Patricia Almodovar for _Amazon Women: Technological Change, Housework, and Privacy in Comparative Perspective_<br>
 
-**Fall 2021**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Fall 2021**<br>
+- [Lisa Briand](https://liberalarts.temple.edu/academics/faculty/briand-lisa) (Psychology) and student Abigail Jurewicz for _Influence of Social Isolation During Adolescence on Social reward and Opiate Self-administration_
+- [Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah) (Psychology) and student Macy Galante for _Prevention of Adolescent Emotional and Behavioral Difficulties Among Low-Income, Urban Youth_
+- [Petra Goedde](https://liberalarts.temple.edu/academics/faculty/drabick-deborah) (History) and student Macy Galante for _Prevention of Adolescent Emotional and Behavioral Difficulties Among Low-Income, Urban Youth_
+- [Alexandra Guisinger](https://liberalarts.temple.edu/academics/faculty/guisinger-alexandra) (Political Science) and student Samantha Campbell for _Trump Championed the White Working Class Man: Does That Explain the New Partisan Gap in Trade Protection?_
+- [Chelsea Helion](https://liberalarts.temple.edu/academics/faculty/helion-chelsea) (Psychology) and student Adhya Gowda for _Action and Motivation Congruency in Assessing Interpersonal Similarity_
+- [Judith Levine](https://liberalarts.temple.edu/academics/faculty/levine-judith) (Sociology) and student Tara Cunniffe for _Landing a Job: Moving from College to Employment in the New Economy_
+- [Patricia Melzer](https://liberalarts.temple.edu/academics/faculty/melzer-patricia) (French, German, Italian, and Slavic) and student Bri McCaffrey	for _Accessing and Cataloging Digital Archives for Book Chapter 'Feminist Militants’ Response to Sexism and Sexual Violence in the Autonomen'_
+- [Vishnu Murty](https://liberalarts.temple.edu/academics/faculty/murty-vishnu) (Psychology) and student Kathryn Lockwood for _The Interactive Effects of Emotional Arousal on Time Perception and Memory Utilizing the Social Media Platform Tik Tok_
+- [Adam Shellhorse](https://liberalarts.temple.edu/academics/faculty/hey-col-n-rebeca-l) (Spanish and Portuguese) and student Matheus Fronza for _The Modalities of Affect: Language, Feeling, and Intensity in Latin American Literature and Art (1924-2021)_
+- [E. Rely Vilcica](https://liberalarts.temple.edu/academics/faculty/v-lcic-e-rely) (Criminal Justice) and student Sophia M. Shaiman for _Bail Reform in the Era of Progressive Prosecution: Philadelphia as a Case Study_
+- [Hongling Xie](https://liberalarts.temple.edu/academics/faculty/murty-vishnu) (Psychology) and student Anna Stewart for _TBody Image and Risky Sexual Behaviors among College Students: The Moderating Role of Dating App Use_
+- [Lu Zhang](https://liberalarts.temple.edu/academics/faculty/zhang-lu) (Sociology) and student Shane A. Binot for _A Comparative Study of Public Responses to COVID-19 in the United States and China: What Role Do Political Leaders, Experts, and Media Play?_
+- [Adam Ziegfeld	](https://liberalarts.temple.edu/academics/faculty/zhang-lu) (Political Science) and student Ellen Kamalyan for _The Politics of Election Alliances in India_
 
 ___
 
 ## Past LAURA Scholar Awards
 
-<details>
-  <summary><strong>Spring 2021</strong></summary>
+### Spring 2021
 - [Zain Abdullah](https://liberalarts.temple.edu/academics/faculty/abdullah-zain) (Religion) and student Angelique Vittone (Psychology and Religion) for _The Nation of Islam and Social Change, 1955-1975_
 - [Debra Bangasser](https://liberalarts.temple.edu/academics/faculty/bangasser-debra) (Neuroscience) and student Alessandro Jean-Louis for _Probability Discounting_
 - [Jason Chein](https://liberalarts.temple.edu/academics/faculty/chein-jason) (Psychology) and student Olivia Bishop for _Fake News Belief and Sharing Behaviors in Media Savvy Youth_
@@ -98,10 +94,8 @@ ___
 - [Amarat Zaatut](https://liberalarts.temple.edu/academics/faculty/zaatut-amarat) (Criminal Justice) and student Isabel Apothaker for _Scholars’ Perceptions of Qualitative Research and its Utility in Criminology and Criminal Justice: A Comparative Study_
 - [Janire Zalbidea](https://liberalarts.temple.edu/academics/faculty/zalbidea-janire) (Spanish) and student Gillian Smyth for _Individual Differences in Foreign and Heritage Language Writing_
 - [Lu Zhang](https://liberalarts.temple.edu/academics/faculty/zhang-lu) (Sociology) and student Shane A. Binot (Philosophy and Sociology double major) for _A Comparative Study of Public Responses to COVID-19 in the United States and China: What Role Do Political Leaders, Experts, and Media Play?_
-</details> 
 
-<details>
-  <summary><strong>Fall 2020</strong></summary>
+### Fall 2020
 - [Rebecca Alpert](https://liberalarts.temple.edu/academics/faculty/alpert-rebecca) (Religion) and student Jessica Levine for _Jewish Feminists and the UN Decade on Women Oral History Project_
 - [Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania) (Psychology) and student Dhruvi Mehta for _Objective Assessment of Cognition and Everyday Function in Older Adults_
 - [Victor Hugo Gutierrez-Velez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo) (Geography and Urban Studies) and student Evelyn Gorey for _Mapping Drivers of Ecosystem Change in a Biodiversity Hotspot in Colombia_
@@ -112,10 +106,8 @@ ___
 - [David Smith](https://liberalarts.temple.edu/academics/faculty/smith-david-v) (Psychology) and student Gemma Goldstein for _Shared Reward Processing and Substance Use_
 - [Kimberly Williams](https://liberalarts.temple.edu/academics/faculty/williams-kimberly-d) (Anthropology) and student Matthew Williams for _Reconstructing Mortuary Ritual in Early Bronze Age Oman: The Role of Animals and Fire_
 - [Janire Zalbidea](https://liberalarts.temple.edu/academics/faculty/zalbidea-janire) (Spanish) and student Lytice Gordon for _Factors Impacting Foreign Language Reading Comprehension_
-</details>
 
-<details>
-  <summary><strong>Summer 2020</strong></summary>
+### Summer 2020
 - [Colin Chamberlain](https://liberalarts.temple.edu/academics/faculty/chamberlain-colin) (Philosophy) and student Callum for _Do Minerals Dream? Margaret Cavendish’s Panpsychism_
 - [Eunice Chen](https://liberalarts.temple.edu/academics/faculty/chen-eunice) (Psychology) and student Thomas Kelly for _Medical Comorbidity and COVID-19_
 - [Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah) (Psychology) and student Faylyn Kalchthaler for _Do Working Memory Abilities Moderate the Relation between Community Violence and Peer Processes?_
@@ -137,4 +129,3 @@ ___
 - [Eileen Ryan](https://liberalarts.temple.edu/academics/faculty/ryan-eileen) (History) and student Megan McGraw for _Black Italy_
 - [Thomas Shipley]() (Psychology) and student Daniel McGuigan for _Exploring heuristics and biases in engineering design_
 - [Amarat Zaatut](https://liberalarts.temple.edu/academics/faculty/zaatut-amarat) (Criminal Justice) and student Isabel Apothaker for _Scholars’ Perceptions of Qualitative Research and its Utility in Criminology and Criminal Justice: A Comparative Study_
-- </details>
