@@ -23,8 +23,9 @@ The Liberal Arts Undergraduate Research Awards (LAURA) creates more opportunitie
 - [LAURA APPLICATION and GUIDELINES](https://forms.office.com/Pages/ResponsePage.aspx?id=74FucSK1c0SOMRC9Asz25YUTQ2IOTiRHsiOxVuRDceNURjQ5SERKTVlPQVU4Q0lZUjBRQjU3N0k4MC4u)
 
 ### Faculty and Student Research Teams
-The College of Liberal Arts is pleased to announce the **Summer and Fall 2021** LAURA Scholar Awards:<br>
-**Summer 2021**<br>
+The College of Liberal Arts is pleased to announce the **Summer and Fall 2021** LAURA Scholar Awards:
+
+### Summer 2021
 - [Zain Abdullah](https://liberalarts.temple.edu/academics/faculty/abdullah-zain) (Religion) and student Angelique Vittone (Psychology and Religion) for _The Nation of Islam and Social Change, 1955-1975_
 - [Debra Bangasser](https://liberalarts.temple.edu/academics/faculty/bangasser-debra) (Neuroscience) and student Alexandra Hehn for _Effect of a Low Resource Environment on Maternal Motivation and Defensive Behaviors in Rats_
 - [Lisa Briand](https://liberalarts.temple.edu/academics/faculty/briand-lisa) (Psychology) and student Brigham Rhoads for _Effect of Adolescent Social Isolation and Cocaine Self-Administration on Microglial Morphology_
@@ -49,7 +50,7 @@ The College of Liberal Arts is pleased to announce the **Summer and Fall 2021** 
 - [David V. Smith](https://liberalarts.temple.edu/academics/faculty/smith-david-v) (Psychology) and student Scott Blender for _Causal Modeling of Corticostriatal Connectivity During Reward Processing_
 - [Sandra Suarez](https://liberalarts.temple.edu/academics/faculty/smith-david-v) (Political Science) and student Patricia Almodovar for _Amazon Women: Technological Change, Housework, and Privacy in Comparative Perspective_<br>
 
-**Fall 2021**<br>
+### Fall 2021
 - [Lisa Briand](https://liberalarts.temple.edu/academics/faculty/briand-lisa) (Psychology) and student Abigail Jurewicz for _Influence of Social Isolation During Adolescence on Social reward and Opiate Self-administration_
 - [Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah) (Psychology) and student Macy Galante for _Prevention of Adolescent Emotional and Behavioral Difficulties Among Low-Income, Urban Youth_
 - [Petra Goedde](https://liberalarts.temple.edu/academics/faculty/drabick-deborah) (History) and student Macy Galante for _Prevention of Adolescent Emotional and Behavioral Difficulties Among Low-Income, Urban Youth_
