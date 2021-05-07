@@ -100,7 +100,8 @@ ___
 - [Lu Zhang](https://liberalarts.temple.edu/academics/faculty/zhang-lu) (Sociology) and student Shane A. Binot (Philosophy and Sociology double major) for _A Comparative Study of Public Responses to COVID-19 in the United States and China: What Role Do Political Leaders, Experts, and Media Play?_
 </details> 
 
-### Fall 2020
+<details>
+  <summary><strong>Fall 2020</strong></summary>
 - [Rebecca Alpert](https://liberalarts.temple.edu/academics/faculty/alpert-rebecca) (Religion) and student Jessica Levine for _Jewish Feminists and the UN Decade on Women Oral History Project_
 - [Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania) (Psychology) and student Dhruvi Mehta for _Objective Assessment of Cognition and Everyday Function in Older Adults_
 - [Victor Hugo Gutierrez-Velez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo) (Geography and Urban Studies) and student Evelyn Gorey for _Mapping Drivers of Ecosystem Change in a Biodiversity Hotspot in Colombia_
@@ -111,8 +112,10 @@ ___
 - [David Smith](https://liberalarts.temple.edu/academics/faculty/smith-david-v) (Psychology) and student Gemma Goldstein for _Shared Reward Processing and Substance Use_
 - [Kimberly Williams](https://liberalarts.temple.edu/academics/faculty/williams-kimberly-d) (Anthropology) and student Matthew Williams for _Reconstructing Mortuary Ritual in Early Bronze Age Oman: The Role of Animals and Fire_
 - [Janire Zalbidea](https://liberalarts.temple.edu/academics/faculty/zalbidea-janire) (Spanish) and student Lytice Gordon for _Factors Impacting Foreign Language Reading Comprehension_
+</details>
 
-### Summer 2020
+<details>
+  <summary><strong>Summer 2020</strong></summary>
 - [Colin Chamberlain](https://liberalarts.temple.edu/academics/faculty/chamberlain-colin) (Philosophy) and student Callum for _Do Minerals Dream? Margaret Cavendish’s Panpsychism_
 - [Eunice Chen](https://liberalarts.temple.edu/academics/faculty/chen-eunice) (Psychology) and student Thomas Kelly for _Medical Comorbidity and COVID-19_
 - [Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah) (Psychology) and student Faylyn Kalchthaler for _Do Working Memory Abilities Moderate the Relation between Community Violence and Peer Processes?_
@@ -134,3 +137,4 @@ ___
 - [Eileen Ryan](https://liberalarts.temple.edu/academics/faculty/ryan-eileen) (History) and student Megan McGraw for _Black Italy_
 - [Thomas Shipley]() (Psychology) and student Daniel McGuigan for _Exploring heuristics and biases in engineering design_
 - [Amarat Zaatut](https://liberalarts.temple.edu/academics/faculty/zaatut-amarat) (Criminal Justice) and student Isabel Apothaker for _Scholars’ Perceptions of Qualitative Research and its Utility in Criminology and Criminal Justice: A Comparative Study_
+- </details>
