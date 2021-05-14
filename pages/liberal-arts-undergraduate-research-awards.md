@@ -38,7 +38,6 @@ The College of Liberal Arts is pleased to announce the **Summer and Fall 2021** 
 - [Rebeca Hey-Colón](https://liberalarts.temple.edu/academics/faculty/hey-col-n-rebeca-l) (Spanish and Portuguese) and student Maighdlin Elizabeth Lagonegro-Coar for _Channeling Knowledges: Afro-diasporic Waters in Latinx and Caribbean Worlds_
 - [Kathryn Hirsh-Pasek](https://liberalarts.temple.edu/academics/faculty/hirsh-pasek-kathryn) (Psychology) and student Nicole Toltzis for _Multi-communication and Children: The Influence of Technology on Trust and Judgement_
 - [Johanna Jarcho](https://liberalarts.temple.edu/academics/faculty/jarcho-johanna) (Psychology) and student Caroline Kessler for _The Effects of Childhood Unpredictability and COVID-Related Sheltering-in-Place on Mental Health_
-- [Laura McGrath](https://liberalarts.temple.edu/academics/faculty/jarcho-johanna) (English) and student 	Robert Russell Magee for _Book Data_
 - [Laura McGrath](https://liberalarts.temple.edu/academics/faculty/mcgrath-laura) (English) and student 	Robert Russell Magee for _Book Data_
 - [Laura McGrath](https://liberalarts.temple.edu/academics/faculty/mcgrath-laura) (English) and student 	Nikki Gallant for _Book Data_
 - [Alan McPherson](https://liberalarts.temple.edu/academics/faculty/mcpherson-alan) (History) and student Igor Piovezan for _The Impact of Iran-Contra on U.S. Democracy_
